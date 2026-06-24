@@ -48,8 +48,8 @@ I'm a versatile **Fullstack Developer** with a passion for creating innovative s
 </br>
 
 <!--  MY GITHUB STAT -- LANGUAGES USED  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=jameel-webdev&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameel-webdev&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=jameel-swe&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameel-swe&show_icons=true&count_private=true&custom_title=Most%20Used%20Language&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> 
 </p>
 
 <!--  DIVIDER  -->
